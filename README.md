@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/user97116/count.svg)
+![](https://komarev.com/ghpvc/?username=user97116)
