@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amar Dahake</h1>
-<h3 align="center">A passionate developer from 🌏</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=user97116&label=Profile%20views&color=0e75b6&style=flat" alt="user97116" /> </p>
 
