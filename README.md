@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=user97116" alt="user97116" /></a> </p>
 
-- 💬 Ask me about **mobile, web, games and backend**
+- 💬 Ask me about **mobile, web and backend**
 
 - 📫 How to reach me **amardahake@proton.me**
 
