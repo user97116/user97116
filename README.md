@@ -34,6 +34,9 @@
 - 🔐 **[oauth2](https://github.com/user97116/oauth2)** - OAuth2 authentication implementation.
 - 💬 **[whatsapp_clone](https://github.com/user97116/whatsapp_clone)** - WhatsApp-style chat app in Flutter.
 - 🚗 **[car-app](https://github.com/user97116/car-app)** - Flutter UI concept for a car application.
+- 
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/user97116)
 
 ## Connect
 [![Twitter](https://img.shields.io/badge/-@amardahake-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardahake11)
