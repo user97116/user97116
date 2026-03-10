@@ -38,6 +38,6 @@
 ## Connect
 [![Twitter](https://img.shields.io/badge/-@amardahake-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/amardahake11)
 [![LinkedIn](https://img.shields.io/badge/-Amar_Dahake-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amardahake)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amardahake)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/user97116)
 
 ---
